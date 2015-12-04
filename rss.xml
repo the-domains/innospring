@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[innospring]]></title>
         <description><![CDATA[innospring]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/innospring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 02:14:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 02:22:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/innospring/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Uber Is Raising Another Couple Billion, At A $62.5 Billion Valuation]]></title>
+            <description><![CDATA[<article><h1>Uber Is Raising Another Couple Billion, At A $62.5 Billion Valuation</h1><p>Rideshare platform Uber is looking to raise $2.1 billion. Uber is the most valuable technology company on paper, at a current $50 billion valuation. The additional funding would bring those figures up to $62.5 billion in value. Compare that to Uber's U.S. rival Lyft, rumored to be raising half a billion at a $4 billion valuation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a3079968067aaf01d1aa342d89ba3177f2a0ac2.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2015/12/03/uber-is-raising-another-couple-billion-at-a-62-5-billion-valuation/</link>
+            <guid isPermaLink="false">0d8211b8-dc9f-4ced-b059-f0bb8caf4303</guid>
+            <pubDate>Fri, 04 Dec 2015 02:22:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GiveReceipt does exactly what it says, saving Malaysian small businesses a fortune]]></title>
-            <description><![CDATA[<article><h1>GiveReceipt does exactly what it says, saving Malaysian small businesses a fortune</h1><p>Properly filing your receipts is one of the least sexy parts of running a business. There aren't a lot of inspiring startup stories that include the line, "and then we printed, collated, and submitted our invoices." But, just because they aren't the things that dreams are made of doesn't mean receipts aren't immensely important to a startup or small business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0fecbd0d2f7e2a3ab38b7d426ed94a4ac4bce50.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>GiveReceipt does exactly what it says, saving Malaysian small businesses a fortune</h1><p>Properly filing your receipts is one of the least sexy parts of running a business. There aren't a lot of inspiring startup stories that include the line, "and then we printed, collated, and submitted our invoices." But, just because they aren't the things that dreams are made of doesn't mean receipts aren't immensely important to a startup or small business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/160a4f01a1b351d24fb566dd3276679ccb839e32.jpg"></article>]]></description>
             <link>https://www.techinasia.com/givereceipt-malaysia-receipts-pos/</link>
             <guid isPermaLink="false">5a1c5f43-839e-4f1f-9c35-51f59638fbab</guid>
             <pubDate>Fri, 04 Dec 2015 02:14:26 GMT</pubDate>
