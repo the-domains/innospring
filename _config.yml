@@ -1,7 +1,7 @@
 name: innospring
 favicon: null
-layout_spectrum: 0.8838751930743456
-typography_spectrum: 0.07773709576576948
+layout_spectrum: 0.42979
+typography_spectrum: 0.76054
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.575162292458117
+  brandStrength: 0
   lightness: 0.7291466684546322
   saturation: 0.7581603361759335
   rhythmicContrast: 0.8452426372095942
