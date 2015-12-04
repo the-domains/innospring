@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[innospring]]></title>
+        <description><![CDATA[innospring]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Dec 2015 02:14:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GiveReceipt does exactly what it says, saving Malaysian small businesses a fortune]]></title>
+            <description><![CDATA[<article><h1>GiveReceipt does exactly what it says, saving Malaysian small businesses a fortune</h1><p>Properly filing your receipts is one of the least sexy parts of running a business. There aren't a lot of inspiring startup stories that include the line, "and then we printed, collated, and submitted our invoices." But, just because they aren't the things that dreams are made of doesn't mean receipts aren't immensely important to a startup or small business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0fecbd0d2f7e2a3ab38b7d426ed94a4ac4bce50.jpg"></article>]]></description>
+            <link>https://www.techinasia.com/givereceipt-malaysia-receipts-pos/</link>
+            <guid isPermaLink="false">5a1c5f43-839e-4f1f-9c35-51f59638fbab</guid>
+            <pubDate>Fri, 04 Dec 2015 02:14:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
